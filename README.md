@@ -20,4 +20,5 @@ Repository Structure
 - Matplotlib
 - seaborn
 - Scikit-learn
-Purpose This repository tracks my learning progress and practice in Data Science.
+
+Purpose: This repository tracks my learning progress and practice in Data Science.
