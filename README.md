@@ -2,7 +2,7 @@ ExcelR Data Science Assignments
 
 This repository contains my assignments and practice work completed during the ExcelR Data Science course.
 
-###Topics Covered
+### Topics Covered
 
 * Python Basics
 * Pandas for Data Analysis
@@ -12,7 +12,7 @@ Repository Structure
 
 datasets/ → Contains datasets used in assignments, code/ → practice assignments
 
-###Tools Used
+### Tools Used
 
 - Python
 - Pandas
